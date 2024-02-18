@@ -3,8 +3,7 @@
 <p align="center">Start an interactive chat on your terminal using Gemini.</p>
 
 <p align="center">
-    <a href="https://github.com/unburn/cropify"><b>Github</b></a> •
-    <a href="https://discord.gg/66uGX7t4ww"><b>Support</b></a>
+    <a href="https://discord.gg/66uGX7t4ww"><b>Discord</b></a>
 </p>
 
 ## Config
